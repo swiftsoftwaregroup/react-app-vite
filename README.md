@@ -74,7 +74,7 @@ Build (builds the app in `./dist`):
 npm run build
 ```
 
-Preview build (serves `./dist` on http://localhost:4173/:
+Preview build (serves `./dist` on http://localhost:4173):
 
 ```bash
 npm run preview
